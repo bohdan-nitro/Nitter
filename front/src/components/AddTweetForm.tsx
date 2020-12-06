@@ -83,7 +83,7 @@ export const AddTweetFrom: React.FC<AddTweetFormProps> = ({classes, maxRows}: Ad
                                             <CircularProgress
                                                 style={{color: "rgba(0,0,0,0.1)"}}
                                                 variant={"static"}
-                                                size={20}
+                                                size={22}
                                                 thickness={5}
                                                 value={100}
                                             />

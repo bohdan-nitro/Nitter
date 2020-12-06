@@ -126,7 +126,7 @@ export const SignIn: React.FC = (): React.ReactElement => {
                     <TwitterIcon color={"primary"} className={classes.loginSideTwitterIcon}/>
                     <Typography className={classes.loginSideTitle} variant={"h4"}>Узнайте что происходит в мире прямо
                         сейчас</Typography>
-                    <Typography><b>Присоиденяйтесь к Твиттеру прямо сейчас</b></Typography>
+                    <Typography><b>Присоиденяйтесь к Твиттеру прямо сейчас!</b></Typography>
                     <br/>
                     <Button onClick={handleClickOpenSignUp}
                             style={{marginBottom: 20}}
