@@ -96,7 +96,7 @@ export const Home = () => {
                         <Tags classes={classes} />
                         <Paper className={classes.rightSideBlock}>
                             <Paper className={classes.rightSideBlockHeader} variant="outlined">
-                                <b>Кого читать?</b>
+                                <b>Кого читать?!</b>
                             </Paper>
                             <List>
                                 <ListItem className={classes.rightSideBlockItem}>
