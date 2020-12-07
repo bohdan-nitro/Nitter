@@ -49,35 +49,7 @@
         "avatarUrl": "https://source.unsplash.com/random/100x100 4"
       }
     },
-    {
-      "_id": "onjnhb8jau",
-      "text": "выйвй",
-      "user": {
-        "fullName": "Stout Ray",
-        "userName": "evangelina",
-        "avatarUrl": "https://source.unsplash.com/random/100x100 4"
-      },
-      "id": 5
-    },
-    {
-      "_id": "p93zchrmr1",
-      "text": "ывфыв",
-      "user": {
-        "fullName": "Stout Ray",
-        "userName": "evangelina",
-        "avatarUrl": "https://source.unsplash.com/random/100x100 4"
-      },
-      "id": 6
-    },
-    {
-      "_id": "z64lgar3xv",
-      "text": "22222222222222",
-      "user": {
-        "fullName": "Stout Ray",
-        "userName": "evangelina",
-        "avatarUrl": "https://source.unsplash.com/random/100x100 4"
-      },
-      "id": 7
+
     }
   ],
   "user": {
