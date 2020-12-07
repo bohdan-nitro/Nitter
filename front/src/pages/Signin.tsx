@@ -133,7 +133,7 @@ export const SignIn: React.FC = (): React.ReactElement => {
                             variant={"contained"}
                             color={"primary"}
                             fullWidth>
-                        Зарегестрироваться!
+                        Зарегестрироваться
                     </Button>
                     <Button onClick={handleClickOpenSignIn}
                             variant={"outlined"}

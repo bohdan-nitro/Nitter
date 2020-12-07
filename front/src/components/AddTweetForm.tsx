@@ -93,7 +93,7 @@ export const AddTweetFrom: React.FC<AddTweetFormProps> = ({classes, maxRows}: Ad
 
                                 <Button onClick={handleClickAddTweet} disabled={text.length >= MAX_LENGTH}
                                         color={"primary"} variant={"contained"}>
-                                    Твитнуть!
+                                    Твитнуть
                                 </Button>
                             </div>
                         </div>
